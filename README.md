@@ -40,7 +40,7 @@ Aqui estão alguns dos meus projetos favoritos:
 Se você quiser discutir tecnologia, colaborar em projetos ou apenas bater um papo, sinta-se à vontade para entrar em contato comigo!
 
 - *[LinkedIn](https://www.linkedin.com/in/robson-ferraz-mineiro/)*
-- *[Email](robson_r_f@hotmail.com)*
+- *Email: (robson_r_f@hotmail.com)*
 
 ---
 
