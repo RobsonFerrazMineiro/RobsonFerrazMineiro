@@ -39,8 +39,10 @@ Aqui estão alguns dos meus projetos favoritos:
 
 Se você quiser discutir tecnologia, colaborar em projetos ou apenas bater um papo, sinta-se à vontade para entrar em contato comigo!
 
-- *[LinkedIn](https://www.linkedin.com/in/robson-ferraz-mineiro/)*
-- *Email: (robson_r_f@hotmail.com)*
+*- GitHub: [RobsonFerrazMineiro](https://github.com/RobsonFerrazMineiro)*
+*- Email: [robson_r_f@hotmail.com](mailto:robson_r_f@hotmail.com)*
+*- LinkedIn: [Robson Ferraz Mineiro](https://www.linkedin.com/in/robson-ferraz-mineiro/)*
+*- Instagram:[robsonfmofcial](https://www.instagram.com/robsonfmofcial/)*
 
 ---
 
