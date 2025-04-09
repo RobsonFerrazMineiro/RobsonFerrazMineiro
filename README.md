@@ -3,6 +3,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/RobsonFerrazMineiro?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/RobsonFerrazMineiro?style=social)
+
+---
+
 Bem-vindo(a) ao meu perfil GitHub! Sou apaixonado por tecnologia, desenvolvimento web e aprendizado constante. Aqui você encontrará uma coleção de projetos que refletem minha jornada como desenvolvedor.
 
 ---
@@ -71,10 +74,10 @@ Um jogo divertido para adivinhar números.
 
 ## 📫 Entre em Contato
 
-- **LinkedIn:** [Robson Ferraz Mineiro](https://www.linkedin.com/in/robsonferrazmineiro)
-- **Email:** robson_r_f@hotmail.com 
-- **Portfólio:** [robsonferraz.vercel.app](https://robsonferraz.vercel.app)
-**Instagram:** [robsonfmofcial](https://www.instagram.com/robsonfmofcial/)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsonferrazmineiro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robson_r_f@hotmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://robsonferraz.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robsonfmofcial/)
 
 ---
 
