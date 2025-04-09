@@ -72,25 +72,12 @@ Um jogo divertido para adivinhar números.
 ## 📫 Entre em Contato
 
 - **LinkedIn:** [Robson Ferraz Mineiro](https://www.linkedin.com/in/robsonferrazmineiro)
-- **Email:** robsonferrazmineiro@exemplo.com.br
+- **Email:** robson_r_f@hotmail.com 
 - **Portfólio:** [robsonferraz.vercel.app](https://robsonferraz.vercel.app)
+**Instagram:** [robsonfmofcial](https://www.instagram.com/robsonfmofcial/)*
 
 ---
 
 ✨ *"A tecnologia é a arte de transformar ideias em realidade."* ✨
 
 ----
-
-*- GitHub: [RobsonFerrazMineiro](https://github.com/RobsonFerrazMineiro)*
-*- Email: [robson_r_f@hotmail.com](mailto:robson_r_f@hotmail.com)*
-*- LinkedIn: [Robson Ferraz Mineiro]()*
-*- Instagram:[robsonfmofcial](https://www.instagram.com/robsonfmofcial/)*
-
----
-
-Obrigado por visitar o meu perfil! 😊
-
-<!---
-RobsonFerrazMineiro/RobsonFerrazMineiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
