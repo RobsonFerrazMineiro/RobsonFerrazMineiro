@@ -65,7 +65,7 @@ Um jogo divertido para adivinhar números.
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=RobsonFerrazMineiro&show_icons=true&title_color=00ffcc&text_color=ffffff&icon_color=00ccff&bg_color=gradient,002b52,004d8d,0073e6,00bfff&)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=RobsonFerrazMineiro&show_icons=true&bg_color=30,e63946,457b9d,2a9d8f&title_color=ffffff&text_color=ffffff&icon_color=ffdd00)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonFerrazMineiro&layout=compact&title_color=00ffcc&text_color=ffffff&icon_color=00ccff&bg_color=gradient,002b52,004d8d,0073e6,00bfff&)
 
 ---
