@@ -1,8 +1,9 @@
 
-# 👋 Olá, eu sou **Robson Ferraz Mineiro**!
+# 👋 Olá, eu sou **Robson Ferraz Mineiro**!                          ![GitHub followers](https://img.shields.io/github/followers/RobsonFerrazMineiro?style=social) ![GitHub stars](https://img.shields.io/github/stars/RobsonFerrazMineiro?style=social)
 
-![GitHub followers](https://img.shields.io/github/followers/RobsonFerrazMineiro?style=social)
-![GitHub stars](https://img.shields.io/github/stars/RobsonFerrazMineiro?style=social)
+![Desenvolvedor Front-End](https://img.shields.io/badge/Desenvolvedor%20Front--End-00008B?style=for-the-badge&logoColor=white&color=00008B)
+
+
 
 ---
 
@@ -70,8 +71,8 @@ Um jogo divertido para adivinhar números.
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=RobsonFerrazMineiro&show_icons=true&title_color=00ffcc&text_color=ffffff&icon_color=00ccff&bg_color=30,002b52,004d8d,0073e6,00bfff&)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonFerrazMineiro&layout=compact&title_color=00ffcc&text_color=ffffff&icon_color=00ccff&bg_color=30,002b52,004d8d,0073e6,00bfff&)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=RobsonFerrazMineiro&show_icons=true&title_color=00ffcc&text_color=ffffff&icon_color=00ccff&bg_color=30,002b52,004d8d,0073e6,00bfff)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonFerrazMineiro&layout=compact&title_color=00ffcc&text_color=ffffff&icon_color=00ccff&bg_color=30,002b52,004d8d,0073e6,00bfff)
 
 ---
 
@@ -87,3 +88,4 @@ Um jogo divertido para adivinhar números.
 ✨ *"A tecnologia é a arte de transformar ideias em realidade."* ✨
 
 ----
+
